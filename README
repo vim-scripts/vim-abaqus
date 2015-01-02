@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5077
+
+VIM filetype plugin for Abaqus FE solver.
+
+Main plugin features: 
+- syntax highlighting 
+- node/element table folding 
+- keyword completion
+- amplitude commands
+- many others useful features
