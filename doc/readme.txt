@@ -1,0 +1,1 @@
+Visit https://github.com/gradzikb/vim-abaqus for the latest version of the plugin.
